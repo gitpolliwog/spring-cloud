@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3612821d-3318-43c9-abb0-5920d3b765c9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="D:\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wWY5Ed5YQ3SEhbZebX9dgTO2yY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client2/src/main" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tk.service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ConfigClientApplication">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="client1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tk.Client1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="config-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tk.ConfigClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="config-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tk.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="feign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tk.FeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tk.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZipKinApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zipkin-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tk.ZipKinApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ZipKinApplication" />
+      <item itemvalue="Spring Boot.Client1Application" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.FeignApplication" />
+      <item itemvalue="Spring Boot.ConfigServerApplication" />
+      <item itemvalue="Spring Boot.ConfigClientApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ConfigClientApplication" />
+        <item itemvalue="Spring Boot.ConfigServerApplication" />
+        <item itemvalue="Spring Boot.FeignApplication" />
+        <item itemvalue="Spring Boot.Client1Application" />
+        <item itemvalue="Spring Boot.GatewayApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3612821d-3318-43c9-abb0-5920d3b765c9" name="Default Changelist" comment="" />
+      <created>1628575626710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628575626710</updated>
+      <workItem from="1628575627847" duration="5216000" />
+      <workItem from="1628581079904" duration="625000" />
+      <workItem from="1628582061930" duration="4654000" />
+      <workItem from="1628586795020" duration="211000" />
+      <workItem from="1628587099101" duration="1216000" />
+      <workItem from="1628588350643" duration="589000" />
+      <workItem from="1628589053190" duration="4358000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="163" y="0" key="#Project_Structure" timestamp="1628589749094">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1628589749094" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1628587006886">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1628587006886" />
+    <state x="406" y="87" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1628580669490">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="406" y="87" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1628580669490" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1628593327570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1628593327570" />
+    <state width="1323" height="255" key="GridCell.Tab.0.bottom" timestamp="1628593430282">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="255" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1628593430282" />
+    <state width="1323" height="255" key="GridCell.Tab.0.center" timestamp="1628593430282">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="255" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1628593430282" />
+    <state width="1323" height="255" key="GridCell.Tab.0.left" timestamp="1628593430282">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="255" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1628593430282" />
+    <state width="1323" height="255" key="GridCell.Tab.0.right" timestamp="1628593430282">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="255" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1628593430282" />
+    <state width="1011" height="285" key="GridCell.Tab.1.bottom" timestamp="1628593430278">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1011" height="285" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1628593430278" />
+    <state width="1011" height="285" key="GridCell.Tab.1.center" timestamp="1628593430278">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1011" height="285" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1628593430278" />
+    <state width="1011" height="285" key="GridCell.Tab.1.left" timestamp="1628593430278">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1011" height="285" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1628593430278" />
+    <state width="1011" height="285" key="GridCell.Tab.1.right" timestamp="1628593430278">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1011" height="285" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1628593430278" />
+    <state width="1011" height="285" key="GridCell.Tab.2.bottom" timestamp="1628593430278">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1011" height="285" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1628593430278" />
+    <state width="1011" height="285" key="GridCell.Tab.2.center" timestamp="1628593430278">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1011" height="285" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1628593430278" />
+    <state width="1011" height="285" key="GridCell.Tab.2.left" timestamp="1628593430278">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1011" height="285" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1628593430278" />
+    <state width="1011" height="285" key="GridCell.Tab.2.right" timestamp="1628593430278">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1011" height="285" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1628593430278" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1628575656022">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1628575656022" />
+    <state x="386" y="51" width="594" height="626" key="find.popup" timestamp="1628588012451">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="386" y="51" width="594" height="626" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1628588012451" />
+    <state x="57" y="0" key="new project wizard" timestamp="1628592438249">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1628592438249" />
+  </component>
+</project>
